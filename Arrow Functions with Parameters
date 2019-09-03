@@ -1,6 +1,6 @@
 //Passing arguments in arrow function
 
-var myConcat = (arr1, arr2)=> {
+const myConcat = (arr1, arr2)=> {
   "use strict";
   return arr1.concat(arr2);
 };
