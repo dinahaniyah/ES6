@@ -1,0 +1,8 @@
+// this is arrow function
+const magic = ()=>{
+  "use strict";
+  return new Date();
+};
+
+/* Don't need to name the function, when passing a function as an argument to another function
+*/
