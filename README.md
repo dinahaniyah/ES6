@@ -3,7 +3,7 @@
 
 ### List :
 1. 
-2. 
+2. Scopes of the var and let Keywords
 3. Read-Only Variable with the const
 4. Mutate an Array Declared with const
 5. Prevent Object Mutation
