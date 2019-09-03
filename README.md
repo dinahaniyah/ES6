@@ -9,3 +9,5 @@
 5. Prevent Object Mutation
 6. Arrow Function
 7. Arrow Functions with Parameters
+8.
+9. Set Default Parameters to Functions
